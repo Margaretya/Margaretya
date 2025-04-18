@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wuwei Ma (马无为)</h1>
+<h1 align="center">Hi 👋, I'm Wuwei Ma </h1>
 <h3 align="center">PhD student @ University of Liverpool</h3>
 
 - 🔭 I’m currently working on **3D point cloud completion**
