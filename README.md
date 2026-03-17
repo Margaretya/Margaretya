@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wuwei Ma </h1>
-<h3 align="center">PhD student @ University of Liverpool</h3>
+<h3 align="center">Lecturer @ School of Computer Science and Information Engineering, Changzhou Institute of Technology </h3>
 
 - 🔭 I’m currently working on **3D point cloud completion**
 
